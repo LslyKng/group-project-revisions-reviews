@@ -34,6 +34,12 @@ input {
 	text-decoration: none;
 	cursor: pointer;
 }
+.button-my-reviews {
+	border:solid black 2px;
+	color:white;
+	text-decoration: none;
+	padding: .5cm;
+}
 
 /* Site title and top navigation */
 .site-header {
