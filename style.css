@@ -81,5 +81,12 @@ input {
 /* Input area to add a new review */
 .add-review {
 	padding: 0.5rem 1rem;
-	text-align: center;
+	text-align: cent
+}
+
+
+.button--add {
+	
+	padding: .400em 10em;
+	font-weight: bolder;
 }
